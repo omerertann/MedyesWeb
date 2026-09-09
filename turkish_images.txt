@@ -1,0 +1,44 @@
+
+src\app\layout.js:13:        <link rel="icon" href="images/favicon-m.svg" type="image/svg+xml" sizes="any" />
+src\app\layout.js:36:                            <img className="logo-main" src="images/medyes-logo.png" alt="Medyes Logo" style={{ height: '50px', imageRendering: 'high-quality' }} />
+src\app\layout.js:37:                            <img className="logo-scroll" src="images/medyes-logo.png" alt="Medyes Logo" style={{ height: '50px', imageRendering: 'high-quality' }} />
+src\app\layout.js:38:                            <img className="logo-mobile" src="images/medyes-logo.png" alt="Medyes Logo" style={{ height: '50px', imageRendering: 'high-quality' }} />
+src\app\layout.js:110:                  <img src="images/medyes-logo.png" className="logo-footer" alt="Medyes Logo" style={{ height: '50px', imageRendering: 'high-quality' }} />
+src\app\page.js:69:            backgroundImage: 'url("images/teknoloji1.png")',
+src\app\page.js:76:            backgroundImage: 'url("images/teknoloji2.png")',
+src\app\page.js:83:            backgroundImage: 'url("images/teknoloji3.png")',
+src\app\page.js:130:                    <img src="images/abdominalv2.jpg" className="w-100 h-100 object-fit-cover" alt="Abdominal" />
+src\app\page.js:143:                    <img src="images/bacakv2.jpg" className="w-100 h-100 object-fit-cover" alt="Bacak Kompresyon" />
+src\app\page.js:156:                    <img src="images/gogusterapiv2.jpg" className="w-100 h-100 object-fit-cover" alt="HFCWO" />
+src\app\page.js:169:                    <img src="images/giyilebilirholter.jpg" className="w-100 h-100 object-fit-cover" alt="Holter" />
+src\app\page.js:182:                    <img src="images/ekgv2.jpg" className="w-100 h-100 object-fit-cover" alt="EKG Yelek" />
+src\app\page.js:195:                    <img src="images/dijitalv2.jpg" className="w-100 h-100 object-fit-cover" alt="Doktor Paneli" />
+src\app\page.js:247:                      <img src="images/korona.png" className="w-100 h-100 object-fit-cover" alt="Haber 1" />
+src\app\page.js:266:                      <img src="images/patent.png" className="w-100 h-100 object-fit-cover" alt="Haber 2" />
+src\app\page.js:285:                      <img src="images/nefes.png" className="w-100 h-100 object-fit-cover" alt="Haber 3" />
+src\app\page.js:304:                      <img src="images/medikal.png" className="w-100 h-100 object-fit-cover" alt="Haber 4" />
+src\app\page.js:336:                  <img src="images/ataturkuni.png" alt="Atatürk Üniversitesi" style={{ maxHeight: '100px', maxWidth: '100%', objectFit: 'contain' }} />
+src\app\page.js:344:                  <img src="images/sakaryauni.jpg" alt="Sakarya Uygulamalı Bilimler Üniversitesi" style={{ maxHeight: '100px', maxWidth: '100%', objectFit: 'contain' }} />
+src\app\page.js:352:                  <img src="images/bilisimvadisi.png" alt="Bilişim Vadisi" style={{ maxHeight: '100px', maxWidth: '100%', objectFit: 'contain' }} />
+src\app\page.js:360:                  <img src="images/teknokent.png" alt="Ata Teknokent" style={{ maxHeight: '100px', maxWidth: '100%', objectFit: 'contain' }} />
+src\app\page.js:377:                <img src="images/tubitak1.jpg" alt="TÜBİTAK" style={{ maxHeight: '60px', maxWidth: '100%', objectFit: 'contain' }} />
+src\app\page.js:382:                <img src="images/tuseb.png" alt="TÜSEB" style={{ maxHeight: '60px', maxWidth: '100%', objectFit: 'contain' }} />
+src\app\page.js:387:                <img src="images/tcsaglikbakanligi.jpg" alt="T.C. SAĞLIK BAKANLIĞI" style={{ maxHeight: '60px', maxWidth: '100%', objectFit: 'contain' }} />
+src\app\page.js:392:                <img src="images/kosgeb.jpg" alt="KOSGEB" style={{ maxHeight: '60px', maxWidth: '100%', objectFit: 'contain' }} />
+src\app\page.js:397:                <img src="images/sbu.png" alt="SBÜ TEKNOPARK" style={{ maxHeight: '60px', maxWidth: '100%', objectFit: 'contain' }} />
+src\app\page.js:402:                <img src="images/kocaeli.png" alt="KOCAELİ SAĞLIK İL MÜDÜRLÜĞÜ" style={{ maxHeight: '60px', maxWidth: '100%', objectFit: 'contain' }} />
+src\app\products\page.js:54:                                <img src="images/abdominalcihazi.jpg" className="w-100" alt="Abdominal Fizyoterapi Cihazı" />
+src\app\products\page.js:82:                                <img src="images/bacakcihazi.jpg" className="w-100" alt="Bacak Kompresyon Cihazı" />
+src\app\products\page.js:109:                                <img src="images/goguscihazi.jpg" className="w-100" alt="HFCWO Göğüs Terapi Cihazı" />
+src\app\products\page.js:136:                                <img src="images/holtercihazi.jpg" className="w-100" alt="Giyilebilir Holter Yelek" />
+src\app\products\page.js:163:                                <img src="images/ekgcihazi.jpg" className="w-100" alt="Yapay Zeka Destekli EKG Yelek" />
+src\app\products\page.js:190:                                <img src="images/dijitalsaglik.jpeg" className="w-100" alt="Doktor ve Hasta Paneli" />
+src\app\products\page.js:217:                                <img src="images/mobiluygulama.jpg" className="w-100" alt="Mobil Uygulama" />
+src\app\products-abdominal\page.js:32:                            <img src="images/abdominalcihazi.jpg" className="img-fluid rounded-3 shadow-lg border border-light w-100" alt="Abdominal Fizyoterapi Cihazı" style={{ objectFit: 'cover' }} />
+src\app\products-bacak\page.js:32:                            <img src="images/bacakcihazi.jpg" className="img-fluid rounded-3 shadow-lg border border-light w-100" alt="Bacak Kompresyon Cihazı" style={{ objectFit: 'cover' }} />
+src\app\products-ekg-ai\page.js:32:                            <img src="images/ekgcihazi.jpg" className="img-fluid rounded-3 shadow-lg border border-light w-100" alt="AI Destekli EKG Yelek" style={{ objectFit: 'cover' }} />
+src\app\products-gogus\page.js:32:                            <img src="images/goguscihazi.jpg" className="img-fluid rounded-3 shadow-lg border border-light w-100" alt="HFCWO Göğüs Terapi Cihazı" style={{ objectFit: 'cover' }} />
+src\app\products-holter\page.js:32:                            <img src="images/holtercihazi.jpg" className="img-fluid rounded-3 shadow-lg border border-light w-100" alt="Giyilebilir Holter Yelek" style={{ objectFit: 'cover' }} />
+src\app\products-mobil\page.js:32:                            <img src="images/mobiluygulama.jpg" className="img-fluid rounded-3 shadow-lg border border-light w-100" alt="Mobil Uygulama" style={{ objectFit: 'cover' }} />
+src\app\products-panel\page.js:32:                            <img src="images/dijitalsaglik.jpeg" className="img-fluid rounded-3 shadow-lg border border-light w-100" alt="Dijital Sağlık Platformu" style={{ objectFit: 'cover' }} />
+
