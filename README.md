@@ -1,15 +1,24 @@
-# Medyes - Health Technologies
-
-The corporate website of Medyes Health Technologies. I developed this using Next.js and React during my internship.
-
-## Installation
-
-```bash
-npm install
-npm run dev
+# # Medyes - Health Technologies
 
 
-Opens in the browser at http://localhost:3000.
+
+    The corporate website of Medyes Health Technologies. I developed this using Next.js and React during my internship.
+
+
+
+    ## Installation
+
+
+
+    ```bash
+
+    npm install
+
+    npm run dev
+
+
+
+  Opens in the browser at http://localhost:3000.
 
 
 
@@ -20,7 +29,8 @@ Opens in the browser at http://localhost:3000.
     npm run build
 
 
-Static files are exported to the out/ directory. They can be deployed to any server.
+
+Static files are exported to the out/ directory. It can be deployed to any server.
 
 
 
@@ -39,6 +49,7 @@ Static files are exported to the out/ directory. They can be deployed to any ser
   ## Pages
 
 
+
   • Anasayfa
 
   • Kurumsal (Hakkında, Vizyon, Ekip, Katalog)
@@ -54,6 +65,7 @@ Static files are exported to the out/ directory. They can be deployed to any ser
 
 
   ## Developer
+
 
 
   Ömer ERTAN
