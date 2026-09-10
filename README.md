@@ -1,4 +1,4 @@
-# # Medyes - Health Technologies
+# Medyes - Health Technologies
 
 
 
@@ -22,7 +22,7 @@
 
 
 
-  ## Build
+  # Build
 
 
 
@@ -34,7 +34,7 @@ Static files are exported to the out/ directory. It can be deployed to any serve
 
 
 
-  ## Technologies Used
+  # Technologies Used
 
 
 
@@ -46,7 +46,7 @@ Static files are exported to the out/ directory. It can be deployed to any serve
 
 
 
-  ## Pages
+  # Pages
 
 
 
@@ -64,7 +64,7 @@ Static files are exported to the out/ directory. It can be deployed to any serve
 
 
 
-  ## Developer
+  # Developer
 
 
 
