@@ -1,24 +1,15 @@
-# Medyes - Sağlık Teknolojileri
+# Medyes - Health Technologies
+
+The corporate website of Medyes Health Technologies. I developed this using Next.js and React during my internship.
+
+## Installation
+
+```bash
+npm install
+npm run dev
 
 
-
-    Medyes Sağlık Teknolojileri'nin kurumsal web sitesi. Staj dönemimde Next.js ve React kullanarak geliştirdim.
-
-
-
-    ## Kurulum
-
-
-
-    ```bash
-
-    npm install
-
-    npm run dev
-
-
-
-  Tarayıcıda http://localhost:3000 adresinden açılır.
+Opens in the browser at http://localhost:3000.
 
 
 
@@ -29,12 +20,11 @@
     npm run build
 
 
-
-  Statik dosyalar out/ klasörüne çıkar. Herhangi bir sunucuya atılabilir.
-
+Static files are exported to the out/ directory. They can be deployed to any server.
 
 
-  ## Kullanılan Teknolojiler
+
+  ## Technologies Used
 
 
 
@@ -46,8 +36,7 @@
 
 
 
-  ## Sayfalar
-
+  ## Pages
 
 
   • Anasayfa
@@ -64,8 +53,7 @@
 
 
 
-  ## Geliştirici
-
+  ## Developer
 
 
   Ömer ERTAN
