@@ -1,36 +1,33 @@
- # Medyes - Sağlık Teknolojileri
+# Medyes - Health Technologies
 
-    Medyes Sağlık Teknolojileri'nin kurumsal web sitesi. Staj dönemimde Next.js ve React kullanarak geliştirdim.
+The corporate website of Medyes Health Technologies. I developed this using Next.js and React during my internship.
 
-    ## Kurulum
+## Installation
 
-    ```bash
-    npm install
-    npm run dev
+```bash
+npm install
+npm run dev
+Opens in the browser at http://localhost:3000.
+Build
+npm run build
+Static files are exported to the out/ directory. It can be deployed to any server.
+Technologies Used
+Next.js 16
+React 19
+Bootstrap 5
+Pages
 
-  Tarayıcıda http://localhost:3000 adresinden açılır.
+Home
 
-  ## Build
+Corporate (About, Vision, Team, Catalog)
 
-    npm run build
+Products & Technology (Abdominal, Leg Compression, Chest Therapy, Holter, ECG, Digital Platform, Mobile Application)
 
-  Statik dosyalar out/ klasörüne çıkar. Herhangi bir sunucuya atılabilir.
+R&D
 
-  ## Kullanılan Teknolojiler
+Information Center
 
-  • Next.js 16
-  • React 19
-  • Bootstrap 5
+Contact
 
-  ## Sayfalar
-
-  • Anasayfa
-  • Kurumsal (Hakkında, Vizyon, Ekip, Katalog)
-  • Ürün & Teknoloji (Abdominal, Bacak Kompresyon, Göğüs Terapi, Holter, EKG, Dijital Platform, Mobil Uygulama)
-  • Ar-Ge
-  • Bilgi Merkezi
-  • İletişim
-
-  ## Geliştirici
-
-  Ömer ERTAN
+Developer
+Ömer ERTAN
